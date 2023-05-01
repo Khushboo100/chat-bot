@@ -12,9 +12,7 @@ import com.onesignal.OneSignal;
 import bike.rapido.driver.activity.MainActivity;
 import bike.rapido.driver.functions.RememberPreferences;
 
-/**
- * Created by myinnos on 24/08/2017.
- */
+
 
 public class AppBaseApplication extends MultiDexApplication {
 
