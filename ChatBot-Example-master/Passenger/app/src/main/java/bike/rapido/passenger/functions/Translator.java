@@ -12,9 +12,6 @@ import com.google.cloud.translate.Translation;
 import bike.rapido.passenger.AppBaseConstants;
 import bike.rapido.passenger.R;
 
-/**
- * Created by myinnos on 24/08/17.
- */
 
 public class Translator {
 
