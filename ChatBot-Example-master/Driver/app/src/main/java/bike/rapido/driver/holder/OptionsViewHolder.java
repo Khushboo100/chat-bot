@@ -7,9 +7,6 @@ import android.widget.TextView;
 
 import bike.rapido.driver.R;
 
-/**
- * Created by myinnos on 24/08/17.
- */
 
 public class OptionsViewHolder extends RecyclerView.ViewHolder {
 
