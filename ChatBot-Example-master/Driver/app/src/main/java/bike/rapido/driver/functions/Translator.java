@@ -10,9 +10,7 @@ import com.google.cloud.translate.Translation;
 
 import bike.rapido.driver.AppBaseConstants;
 
-/**
- * Created by myinnos on 24/08/17.
- */
+
 
 public class Translator {
 
