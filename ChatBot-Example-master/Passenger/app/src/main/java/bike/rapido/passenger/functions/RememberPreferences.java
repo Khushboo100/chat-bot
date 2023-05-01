@@ -1,8 +1,6 @@
 package bike.rapido.passenger.functions;
 
-/**
- * Created by myinnos on 24/08/17.
- */
+
 
 import android.content.Context;
 import android.content.SharedPreferences;
