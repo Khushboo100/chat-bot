@@ -2,9 +2,6 @@ package bike.rapido.passenger.model;
 
 import java.util.List;
 
-/**
- * Created by myinnos on 24/08/17.
- */
 
 public class QuestionDataModel {
 
