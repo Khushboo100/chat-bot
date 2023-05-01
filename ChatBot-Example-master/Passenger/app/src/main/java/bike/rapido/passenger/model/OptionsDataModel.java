@@ -1,8 +1,5 @@
 package bike.rapido.passenger.model;
 
-/**
- * Created by myinnos on 24/08/17.
- */
 
 public class OptionsDataModel {
 
