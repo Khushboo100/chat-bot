@@ -1,8 +1,6 @@
 package bike.rapido.driver.model;
 
-/**
- * Created by myinnos on 24/08/17.
- */
+
 
 public class OptionsDataModel {
 
