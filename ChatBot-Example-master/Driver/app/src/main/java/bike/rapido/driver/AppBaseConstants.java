@@ -1,9 +1,5 @@
 package bike.rapido.driver;
 
-/**
- * Created by myinnos on 24/08/17.
- */
-
 public class AppBaseConstants {
 
     public static String LANGUAGE_SELECTION = "LANGUAGE_SELECTION";
