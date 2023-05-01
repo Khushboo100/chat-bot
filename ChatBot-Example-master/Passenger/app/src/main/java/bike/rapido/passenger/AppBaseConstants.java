@@ -1,8 +1,5 @@
 package bike.rapido.passenger;
 
-/**
- * Created by myinnos on 24/08/17.
- */
 
 public class AppBaseConstants {
 
