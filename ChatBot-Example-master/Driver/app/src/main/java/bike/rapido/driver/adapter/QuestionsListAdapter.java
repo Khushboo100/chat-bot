@@ -16,10 +16,6 @@ import bike.rapido.driver.functions.Translator;
 import bike.rapido.driver.holder.QuestionsViewHolder;
 import bike.rapido.driver.model.QuestionDataModel;
 
-/**
- * Created by myinnos on 24/08/17.
- */
-
 public class QuestionsListAdapter extends RecyclerView.Adapter<QuestionsViewHolder> {
 
     private Activity activity;
