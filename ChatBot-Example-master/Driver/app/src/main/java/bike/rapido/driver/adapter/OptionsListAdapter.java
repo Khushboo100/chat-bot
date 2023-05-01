@@ -17,9 +17,7 @@ import bike.rapido.driver.functions.TriggerNotification;
 import bike.rapido.driver.holder.OptionsViewHolder;
 import bike.rapido.driver.model.OptionsDataModel;
 
-/**
- * Created by myinnos on 24/08/17.
- */
+
 
 public class OptionsListAdapter extends RecyclerView.Adapter<OptionsViewHolder> {
 
