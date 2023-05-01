@@ -6,9 +6,7 @@ import android.widget.TextView;
 
 import bike.rapido.passenger.R;
 
-/**
- * Created by myinnos on 24/08/17.
- */
+
 
 public class QuestionsViewHolder extends RecyclerView.ViewHolder {
 
